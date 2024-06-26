@@ -1,4 +1,4 @@
-#script by @venomXcrazy
+#script by @ind_gunda
 
 import telebot
 import subprocess
